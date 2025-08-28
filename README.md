@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👨‍💻 Huynh Thi Ngoc Han - An Giang University students
+My name is **HUYNH THI NGOC HAN**. I am a 3rd-year student at **An Giang University**, majoring in **Information Technology**.  
+I am passionate about leveraging technology to solve real-world problems and continuously improving my skills in software development.  
 
 <!--
 **Hanian2012/Hanian2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
