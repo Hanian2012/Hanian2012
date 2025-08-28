@@ -1,4 +1,5 @@
-## 👨‍💻 Huynh Thi Ngoc Han - An Giang University students
+# WELCOME TO MY PAGE
+# 👨‍💻 Huynh Thi Ngoc Han - An Giang University students
 My name is **HUYNH THI NGOC HAN**. I am a 3rd-year student at **An Giang University**, majoring in **Information Technology**.  
 I am passionate about leveraging technology to solve real-world problems and continuously improving my skills in software development.  
 
