@@ -31,6 +31,30 @@ I am passionate about leveraging technology to solve real-world problems and con
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
 </p>
+## 📫 Contact Me  
+
+<p align="left">
+  <a href="mail:huynhthingochan7a5@gmail.com@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/yourgithub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://facebook.com/yourfacebook" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+
 <!--
 **Hanian2012/Hanian2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
