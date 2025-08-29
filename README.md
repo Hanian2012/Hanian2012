@@ -53,10 +53,7 @@ I am passionate about leveraging technology to solve real-world problems and con
 ## 🚀 Projects
 
 Here are some of my key projects, showcasing my development skills and interests:
-### 🖥️ [Urban-Flows-Vio-Website-Using-MERN-Stack](https://github.com/yourusername/urban-flow)
-URBAN FLOW is an intelligent multi-service website revolutionizing logistics and e-commerce.  
-**Tech:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=fff)  
-⭐ Stars: ![Stars](https://img.shields.io/github/stars/yourusername/urban-flow?style=social)
+
 
 ---
 <!--
